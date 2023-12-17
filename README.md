@@ -12,6 +12,7 @@ This project leverages exploratory data analysis (EDA) and machine learning tech
 
 The project employs the following main tools and technologies:
 
+- **Platform:** Colab Jupyter Notebook
 - **Programming Language:** Python
 - **Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Scipy
 - **Machine Learning Techniques:** Supervised Learning, Classification (with a focus on Random Forest)
